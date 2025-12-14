@@ -110,6 +110,6 @@ This work **adopts and extends SecurityLingua**. If you use SecurityLingua-relat
 
 ## Resources
 
-- Project Report
+- [Project Report](https://github.com/ayeshathoi/LLMComp/blob/main/Resources/LLMComp-COMPSCI660-Report.pdf)
 - [Project Presentation Slide](https://github.com/ayeshathoi/LLMComp/blob/main/Resources/LLMComp-CS660-Project.pdf)
 - [Project Proposal](https://github.com/ayeshathoi/LLMComp/blob/main/Resources/Proposal%20Proposal.pdf)
